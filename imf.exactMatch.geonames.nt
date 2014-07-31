@@ -1,7 +1,5 @@
 <http://imf.270a.info/code/1.0/CL_AREA/AR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/3865483/> .
 <http://imf.270a.info/code/1.0/CL_AREA/AU> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/2077456/> .
-<http://imf.270a.info/code/1.0/CL_AREA/AU> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/2077507/> .
-<http://imf.270a.info/code/1.0/CL_AREA/AU> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/2170371/> .
 <http://imf.270a.info/code/1.0/CL_AREA/BR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/3469034/> .
 <http://imf.270a.info/code/1.0/CL_AREA/CA> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/6251999/> .
 <http://imf.270a.info/code/1.0/CL_AREA/CH> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/2658434/> .
